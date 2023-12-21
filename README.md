@@ -1,5 +1,5 @@
 # Udacity Digital Project Management Nanodegree Program
-[Link to the official certificate](confirm.udacity.com/e/f26e5ba6-82ac-11ee-a338-d792429795d4)
+[Link to the official certificate](https://confirm.udacity.com/e/f26e5ba6-82ac-11ee-a338-d792429795d4)
 ![Certificate](Digital-PM-nanodegree-certificate.png)
 
 # Materials
